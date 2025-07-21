@@ -1,4 +1,7 @@
 #Uber Dashboard
+
+
+
 UBER TRIP ANALYSIS
 1.A smart, interactive Power BI dashboard built to analyze Uber ride data across locations, customer behavior, and operational trends—focusing on trip volumes, location-based drop-offs, revenue insights, and peak hour trends.
 
@@ -68,4 +71,10 @@ Applied USERELATIONSHIP and CALCULATE for accurate trip counts against dimension
 *Revenue Targeting: Identify high-earning zones for promotions or fleet expansion.
 *Urban Planning: City officials or planners can use this data to optimize transit and ride-hailing integration.
 
-🖼️ Screenshots / Demo
+9.Screenshots / Demo
+Overview Analysis
+https://github.com/srihariyaswanth/DataAnalytics-UberDashboard/blob/main/Snapshot%20of%20Overview%20Analysis.png
+TimeAnalysis
+https://github.com/srihariyaswanth/DataAnalytics-UberDashboard/blob/main/Snapshot%20of%20TimeAnalysis.png
+Details tab
+https://github.com/srihariyaswanth/DataAnalytics-UberDashboard/blob/main/Snapshot%20of%20Details.png
