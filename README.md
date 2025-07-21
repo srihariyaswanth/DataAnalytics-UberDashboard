@@ -71,10 +71,11 @@ Applied USERELATIONSHIP and CALCULATE for accurate trip counts against dimension
 *Revenue Targeting: Identify high-earning zones for promotions or fleet expansion.
 *Urban Planning: City officials or planners can use this data to optimize transit and ride-hailing integration.
 
-9.Screenshots / Demo
-Overview Analysis
-https://github.com/srihariyaswanth/DataAnalytics-UberDashboard/blob/main/Snapshot%20of%20Overview%20Analysis.png
-TimeAnalysis
-https://github.com/srihariyaswanth/DataAnalytics-UberDashboard/blob/main/Snapshot%20of%20TimeAnalysis.png
-Details tab
-https://github.com/srihariyaswanth/DataAnalytics-UberDashboard/blob/main/Snapshot%20of%20Details.png
+9.🖼️ Screenshots / Demo
+
+![Overview](https://github.com/srihariyaswanth/DataAnalytics-UberDashboard/blob/main/Snapshot%20of%20Overview%20Analysis.png)
+
+![Time Analysis](https://github.com/srihariyaswanth/DataAnalytics-UberDashboard/blob/main/Snapshot%20of%20TimeAnalysis.png)
+
+![Details](https://github.com/srihariyaswanth/DataAnalytics-UberDashboard/blob/main/Snapshot%20of%20Details.png)
+
