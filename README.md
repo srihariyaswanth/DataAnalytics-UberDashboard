@@ -72,10 +72,10 @@ Applied USERELATIONSHIP and CALCULATE for accurate trip counts against dimension
 *Urban Planning: City officials or planners can use this data to optimize transit and ride-hailing integration.
 
 9.🖼️ Screenshots / Demo
-
+ *Overview Analysis 
 ![Overview](https://github.com/srihariyaswanth/DataAnalytics-UberDashboard/blob/main/Snapshot%20of%20Overview%20Analysis.png)
-
+ *Time Analysis
 ![Time Analysis](https://github.com/srihariyaswanth/DataAnalytics-UberDashboard/blob/main/Snapshot%20of%20TimeAnalysis.png)
-
+ *Details Tab
 ![Details](https://github.com/srihariyaswanth/DataAnalytics-UberDashboard/blob/main/Snapshot%20of%20Details.png)
 
